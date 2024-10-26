@@ -1,4 +1,4 @@
-## <center>University of Alberta Robotics Association</center>
+## <center>Website for University of Alberta Robotics Association</center>
 
 ### Introduction
 UARA is a group of students who are passionate about robotics and bringing cool projects into reality.
